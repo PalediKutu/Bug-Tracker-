@@ -1,0 +1,2 @@
+This bug tracking system was developed using html and css for the userinterface
+and Javascript to give functionality to the system

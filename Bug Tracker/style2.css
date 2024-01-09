@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ffffff, #f20101);
+    margin: 20px;
+    display: block;
+    font-family: Courier;
+    font-size: 18px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #f2f2f2
+  }
+  
+
+  
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 10px;
+    background-color: #4caf54;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #459da0;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  table th {
+    background-color: #af4caa;
+    color: white;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  footer {
+    background: linear-gradient(to bottom, rgb(16, 133, 133), blue);
+    color: rgb(46, 6, 6);
+    height: 50px;
+}
